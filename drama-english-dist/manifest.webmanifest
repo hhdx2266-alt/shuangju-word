@@ -1,0 +1,18 @@
+{
+  "name": "Drama English · 追剧背单词",
+  "short_name": "追剧背单词",
+  "description": "把大学英语四级词汇融入原创短剧，追剧就能背单词。",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#4B2E83",
+  "theme_color": "#4B2E83",
+  "lang": "zh-CN",
+  "categories": ["education", "books", "entertainment"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
